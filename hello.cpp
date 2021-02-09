@@ -3,7 +3,7 @@
 #include <iostream>
 
 int main() {
-    int a = 10;
+    std::string s = "changes from main";
     std::cout << "Hello World!";
     std::cout << "Goodbye~";
     return 0;
