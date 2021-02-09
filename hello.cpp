@@ -3,7 +3,7 @@
 #include <iostream>
 
 int main() {
-    int a = 5;
+    std::string = "incoming change from VS";
     std::cout << "Hello World!";
     return 0;
 }
