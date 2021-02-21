@@ -4,6 +4,6 @@
 
 int main() {
     std::cout << "Hello World!!";
-    std::cout << "incoming change from remote";
+    std::cout << "incoming change from VS";
     return 0;
 }
